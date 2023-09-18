@@ -5,7 +5,7 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me espe
 - 📚Adoro passar o tempo **estudando novas tecnologias** e **aprimorando conhecimento.**
 - 🎮Games = Lazer.
 
-### Atualmente, focado em:
+### Atualmente estou focado em:
 <div display="inline">
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" />&nbsp;&nbsp;
