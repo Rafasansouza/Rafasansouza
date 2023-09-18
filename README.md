@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Rafael Souza 😄
 Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me especializando na área de dados, explorando novas ferramentas e técnicas para construção, modelagem e visualização de dados.
 - 👨🏼‍💻Estágio em **controle e automação de processos.**
-- 📊Apaxionado pela resolução de **problemas complexos**, com um pensamento **critico e analitico.**
+- 📊Apaxionado pela resolução de **problemas complexos,** com um pensamento **critico e analitico.**
 - 📚Adoro passar o tempo **estudando novas tecnologias** e aprimorando conhecimento.
 - 🎮Games = Lazer.
 
