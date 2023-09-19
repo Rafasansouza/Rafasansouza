@@ -3,7 +3,7 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me espe
 - 👨🏼‍💻Estágio em **controle e automação de processos.**
 - 📊Apaxionado pela resolução de **problemas complexos,** com um pensamento **crítico e analítico.**
 - 📚Adoro passar o tempo **estudando novas tecnologias** e **aprimorando conhecimento.**
-- 🎮Games = Lazer.
+- 🎮**Games = Lazer**.
 
 ### Atualmente estou focado em:
 <div display="inline">
