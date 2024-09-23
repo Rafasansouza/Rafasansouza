@@ -12,7 +12,7 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me espe
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" width="50" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=4hGUZoWc6Eyu&format=png&color=000000" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="60" />&nbsp;&nbsp;
 </div>
 
