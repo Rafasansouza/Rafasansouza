@@ -9,7 +9,7 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me espe
 <div display="inline">
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="ttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-ahozz&psig=AOvVaw2-NGVqvbReyszlv3L0w9pX&ust=1727218527487000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDpwMiU2ogDFQAAAAAdAAAAABAE" width="50" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" width="50" />&nbsp;&nbsp;
