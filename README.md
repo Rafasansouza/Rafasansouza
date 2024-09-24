@@ -1,9 +1,10 @@
-### Olá! Meu nome é Rafael Souza 😄
+### Olá! Meu nome é Rafael Souza 😄  
 Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me especializando na área de dados, explorando novas ferramentas e técnicas para construção, modelagem e visualização de dados.
-- 👨🏼‍💻Estágio em **controle e automação de processos.**
-- 📊Apaixonado pela resolução de **problemas complexos,** com um pensamento **crítico e analítico.**
-- 📚Adoro passar o tempo **estudando novas tecnologias** e **aprimorando conhecimento.**
-- 🎮**Games = Lazer**.
+
+- 👨🏼‍💻 **Atuando como Analista de BI**, focado no desenvolvimento de dashboards, processos de ETL e análise de dados no Power BI.
+- 📊 Apaixonado por resolver **problemas complexos**, aplicando pensamento **crítico e analítico** para gerar insights e otimizar processos.
+- 📚 Gosto de passar o tempo **estudando novas tecnologias** e **aprimorando meus conhecimentos** em ciência de dados e engenharia de dados.
+- 🎮 **Games são meu lazer**, onde desenvolvo habilidades estratégicas e criativas.
 
 ### Atualmente estou focado em:
 <div display="inline">
@@ -25,7 +26,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
 ##
 
-### Você pode falar comigo atraves:
+### Você pode falar comigo através:
 <div display="inline">
   <a href="https://www.linkedin.com/in/rafaelsouzaegq/" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100" />
