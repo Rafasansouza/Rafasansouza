@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Rafael Souza 😄  
 Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me especializando na área de dados, explorando novas ferramentas e técnicas para construção, modelagem e visualização de dados.
 
-- 👨🏼‍💻 **Atuando como Analista de BI**, focado no desenvolvimento de dashboards, processos de ETL e análise de dados no Power BI.
+- 👨🏼‍💻 **Atuando como Analista de BI Jr**, focado no desenvolvimento de dashboards, processos de ETL e análise de dados no Power BI.
 - 📊 Apaixonado por resolver **problemas complexos**, aplicando pensamento **crítico e analítico** para gerar insights e otimizar processos.
 - 📚 Gosto de passar o tempo **estudando novas tecnologias** e **aprimorando meus conhecimentos** em ciência de dados e engenharia de dados.
 - 🎮 **Games são meu lazer**, onde desenvolvo habilidades estratégicas e criativas.
