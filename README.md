@@ -19,7 +19,7 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, trabalho como
 
 ### Visão 👁️
 
-Sou apaixonado por tecnologia e sempre busco aplicar o poder dos dados para resolver problemas reais. Minha missão é transformar dados brutos em insights valiosos e construir soluções que impactem positivamente empresas e pessoas.
+Sempre busco aplicar o poder dos dados para resolver problemas reais. Minha missão é transformar dados brutos em insights valiosos e construir soluções que impactem positivamente empresas e pessoas.
 
 Fascinado por desafios, estou sempre aprendendoe me qualificando, com o intuito de supera-los. inspirado pela frase de Einstein: *"No meio de toda dificuldade existe uma oportunidade."*
 
