@@ -17,7 +17,7 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, trabalho como
 &nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="60" />&nbsp;&nbsp;
 </div>
 
-### 👁️ Visão
+### Visão 👁️
 
 Sou apaixonado por tecnologia e sempre busco aplicar o poder dos dados para resolver problemas reais. Minha missão é transformar dados brutos em insights valiosos e construir soluções que impactem positivamente empresas e pessoas.
 
