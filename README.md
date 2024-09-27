@@ -21,9 +21,7 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, trabalho como
 
 Sempre busco aplicar o poder dos dados para resolver problemas reais. Minha missão é transformar dados brutos em insights valiosos e construir soluções que impactem positivamente empresas e pessoas.
 
-Estou sempre em constante aprendizado e aprimoramento, com o propósito de superar desafios de forma eficiente. 
-
-Vejo cada obstáculo como uma oportunidade de crescimento, inspirado pela frase de Einstein: *"No meio de toda dificuldade existe uma oportunidade."*
+Estou sempre em constante aprendizado e aprimoramento, com o propósito de superar desafios de forma eficiente. Vejo cada obstáculo como uma oportunidade de crescimento, inspirado pela frase de Einstein: *"No meio de toda dificuldade existe uma oportunidade."*
 
 
 Atualmente, estou focado em projetos de Data Science e Engenharia de Dados, utilizando as melhores práticas e tecnologias para criar valor por meio de dados.
