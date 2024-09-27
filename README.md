@@ -1,10 +1,10 @@
 ### Olá! Meu nome é Rafael Souza 😄  
-Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me especializando na área de dados, explorando novas ferramentas e técnicas para construção, modelagem e visualização de dados.
+Sou formado em engenharia e apaixonado por tecnologia. Atualmente, trabalho como analista de BI e estou me especializando em ciência de dados, explorando novas ferramentas e técnicas para construção, modelagem e visualização de dados.
 
 - 👨🏼‍💻 **Atuando como Analista de BI Jr**, focado no desenvolvimento de dashboards, processos de ETL e análise de dados no Power BI.
 - 📊 Apaixonado por resolver **problemas complexos**, aplicando pensamento **crítico e analítico** para gerar insights e otimizar processos.
-- 📚 Gosto de passar o tempo **estudando novas tecnologias** e **aprimorando meus conhecimentos** em ciência de dados e engenharia de dados.
-- 🎮 **Games são meu lazer**, onde desenvolvo habilidades estratégicas e criativas.
+- 📚 Gosto de passar o tempo **estudando novas tecnologias** e **aprimorando meus conhecimentos** em ciência de dados, engenharia de dados e programação.
+- 🎮 Nas horas vagas jogo **Valorant** com os amigos, onde desenvolvo habilidades estratégicas e criativas em equipe.
 
 ### Atualmente estou focado em:
 <div display="inline">
@@ -17,12 +17,13 @@ Sou formado em engenharia e apaixonado por tecnologia. Atualmente, estou me espe
 &nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="60" />&nbsp;&nbsp;
 </div>
 
-### Projetos
-Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
+### Visão
 
-- 🚀 Projeto 1: Em breve
-- 🚀 Projeto 2: Em breve
-- 🚀 Projeto 3: Em breve
+Sou apaixonado por tecnologia e sempre busco aplicar o poder dos dados para resolver problemas reais. Minha missão é transformar dados brutos em insights valiosos e construir soluções que impactem positivamente empresas e pessoas.
+
+Fascinado por desafios, estou sempre aprendendoe me qualificando, com o intuito de supera-los. inspirado pela frase de Einstein: *"No meio de toda dificuldade existe uma oportunidade."*
+
+Atualmente, estou focado em projetos de Data Science e Engenharia de Dados, utilizando as melhores práticas e tecnologias para criar valor por meio de dados.
 
 ##
 
