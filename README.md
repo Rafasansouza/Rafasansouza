@@ -4,7 +4,7 @@ Sou formado em engenharia e especializado em Data Science & Analytics, apaixonad
 - 👨🏼‍💻 **Atuando como Analista de BI Pleno**, focado no desenvolvimento de dashboards, processos de ETL e análise de dados no Power BI.
 - 📊 Apaixonado por resolver **problemas complexos**, aplicando pensamento **crítico e analítico** para gerar insights e otimizar processos.
 - 📚 Gosto de passar o tempo **estudando novas tecnologias** e **aprimorando meus conhecimentos** em ciência de dados, engenharia de dados e programação.
-- 🎮 Nas horas vagas, jogo **Valorant** com os amigos, onde desenvolvo habilidades estratégicas e criativas em equipe.
+- 🎮 Nas horas vagas, jogo **Valorant** com os amigos, onde aplicamos habilidades estratégicas e criativas em equipe.
 
 ### Atualmente estou focado em:
 <div display="inline">
