@@ -5,17 +5,9 @@ Sou formado em engenharia e especializado em Data Science & Analytics, apaixonad
 - 📊 Apaixonado por resolver **problemas complexos**, aplicando pensamento **crítico e analítico** para gerar insights e otimizar processos.
 - 📚 Gosto de passar o tempo **estudando novas tecnologias** e **aprimorando meus conhecimentos** em ciência de dados, engenharia de dados e programação.
 - 🎮 Nas horas vagas, jogo **Valorant** com os amigos, onde aplicamos habilidades estratégicas e criativas em equipe.
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
 ### Atualmente estou focado em:
-<div display="inline">
-&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=all" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=97624&format=png&color=000000" width="50" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="60" />&nbsp;&nbsp;
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github,sql,oracle,sqlserver,postgres,scala,r,azure,aws,docker,md,notion,powerbi)](https://skillicons.dev)
 
 ### Visão 👁️
 
