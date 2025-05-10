@@ -6,8 +6,8 @@ Sou formado em engenharia e especializado em Data Science & Analytics, apaixonad
 - 📚 Gosto de passar o tempo **estudando novas tecnologias** e **aprimorando meus conhecimentos** em ciência de dados, engenharia de dados e programação.
 - 🎮 Nas horas vagas, jogo **Valorant** com os amigos, onde aplicamos habilidades estratégicas e criativas em equipe.
 
-### Atualmente estou focado em:
-![My Skills](https://skillicons.dev/icons?i=python,scala,vscode,git,github,postgres,r,azure,aws,docker,md,notion,windows,linux)
+### Habilidades:
+![My Skills](https://skillicons.dev/icons?i=python,scala,vscode,git,github,postgres,r,azure,aws,docker,md,notion,figma,windows,linux)
 
 ### Visão 👁️
 
